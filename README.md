@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, everyone! 👋
+
+I'm open-minded and hungry for new experiences. 
+In touch.  
+* ceobit90@gmail.com
+* www.linkedin.com/in/romanlebedenko
 
 <!--
 **ceobit/ceobit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
