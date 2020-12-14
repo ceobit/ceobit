@@ -1,7 +1,7 @@
 ### Hello, everyone! 👋
 
-I'm open-minded and hungry for new experiences.  
-In touch
+I’m a web developer and ready for new opportunities.
+Keep in touch:
 * ceobit90@gmail.com
 * www.linkedin.com/in/romanlebedenko
 
