@@ -1,9 +1,13 @@
 ### Hello, everyone! 👋
 
-I’m a web developer and ready for new opportunities.  
-Keep in touch:
-<p><a href="https://www.linkedin.com/in/romanlebedenko" target="_blank"> <img src="https://github.com/ceobit/ceobit/blob/main/loon-icon.svg" alt="linkedin" width="60" height="60"/> </a>
-<a href="ceobit90@gmail.com" target="_blank"> <img src="https://github.com/ceobit/ceobit/blob/main/gm.svg" alt="ceobit90@gmail.com" width="60" height="60"/> </a></p>
+<p style="margin:0; padding:0;">I’m a web developer and ready for new opportunities.  
+Keep in touch:</p>
+<p style="margin:0; padding:0;"><a href="https://www.linkedin.com/in/romanlebedenko" target="_blank"> <img src="https://github.com/ceobit/ceobit/blob/main/loon-icon.svg" alt="linkedin" width="60" height="60"/> </a>
+<a href="ceobit90@gmail.com" target="_blank"> <img src="https://github.com/ceobit/ceobit/blob/main/gm.svg" alt="ceobit90@gmail.com" width="60" height="60"/> </a>
+<a href="https://www.facebook.com/profile.php?id=100009599915967" target="_blank"> <img src="https://github.com/ceobit/ceobit/blob/main/fb.svg" alt="fb" width="60" height="60"/> </a>
+</p>
+
+
 
 
 <!--
