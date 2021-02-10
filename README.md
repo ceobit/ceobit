@@ -2,8 +2,9 @@
 
 I’m a web developer and ready for new opportunities.  
 Keep in touch:
-* ceobit90@gmail.com
-* www.linkedin.com/in/romanlebedenko
+<p><a href="www.linkedin.com/in/romanlebedenko" target="_blank"> <img src="https://github.com/ceobit/ceobit/blob/main/loon-icon.svg" alt="linkedin" width="60" height="60"/> </a>
+<a href="ceobit90@gmail.com" target="_blank"> <img src="https://github.com/ceobit/ceobit/blob/main/gm.svg" alt="ceobit90@gmail.com" width="60" height="60"/> </a></p>
+
 
 <!--
 **ceobit/ceobit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
